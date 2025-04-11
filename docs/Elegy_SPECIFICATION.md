@@ -87,6 +87,7 @@ Our "competitors" are many, both desktop (which is where we focus for now), and 
 - [Symphony](https://github.com/zyrouge/symphony)
 - [Mooonsync](https://github.com/Moosync/Moosync)
 - [Swingmusic](https://github.com/swingmx/swingmusic)
+- [MissingCore Music](https://github.com/MissingCore/Music)
 
 We identify other music players, not to compete (even if its obviously inevitable), but to learn what we should or shouldn't do.
 

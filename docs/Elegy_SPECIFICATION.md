@@ -14,7 +14,7 @@ We also want to give users full control over their experience. With not only ext
 And lastly, but probably one of the most important things: Elegy is a software for the community. It uses a strong copyleft license (AGPLv3) to make this clear. But not only, the data about user usage is collected and processed locally (on user device). Therefore our philosophy is very clear: we take, we give, and we are transparent about it.
 
 ## 2. Overview & Research
-Our music player has to sadisfy most users, but let's say that if you're searching for that nostalgic Y2K vibe poweramp gives: maybe Elegy isn't for you.
+Our music player has to satisfy most users, but let's say that if you're searching for that nostalgic Y2K vibe poweramp gives: maybe Elegy isn't for you.
 
 The target of Elegy is wide:
 - Age ≈> 16
@@ -23,7 +23,7 @@ The target of Elegy is wide:
 - Audiophiles
 - People that have thousands of songs in their library
 - Who loves fancy GUIs
-- People who don't us streaming services (at least not mainly).
+- People who don't use streaming services (at least not mainly).
 
 Our "competitors" are many, both desktop (which is where we focus for now), and on mobile:
 - [Winamp](https://winamp.com/player)
@@ -129,7 +129,7 @@ We identify other music players, not to compete (even if its obviously inevitabl
 -  **Music visualizers** as extension
 -  **Coverflow navigation (like ipod)** as extension
 -  **Chromecast**
-- **Listen party (serverless)** *lol is this even possible*
+-  **Listen party (serverless)** *lol is this even possible*
 
 
 ### Non-Functional Requirements
@@ -141,8 +141,13 @@ It will be challanging, but otherwise we wouldn't do it!
 
 ## 4. Technology Stack
 
-### Programming Languages & Frameworks
-Explain chosen languages and frameworks.
+### Programming Languages
+- Javascript
+- HTML
+- CSS (SCSS)
+
+### Frameworks
+- Electron (React)
 
 ### Databases & Storage
 Describe how data is stored and managed.
